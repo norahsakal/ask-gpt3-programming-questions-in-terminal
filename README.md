@@ -1,5 +1,8 @@
 # Ask programming questions to GPT-3 directly in the terminal with Python and OSX
-The question answering script for GPT-3 programming questions
+
+![Cover](https://d2pwmb8xsybju4.cloudfront.net/posts/ask-questions-in-terminal/linkedin_card.png "Cover")
+
+### The question answering bash script for GPT-3 programming questions
 
 ## Outline
 #### 1. Get OpenAI credentials
